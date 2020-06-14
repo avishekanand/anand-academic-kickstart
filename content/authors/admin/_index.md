@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Avishek Anand
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,33 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Assistant Professor of Information Retrieval
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Leibniz Universität Hannover
+  url: "www.uni-hannover.de"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests lies in the application of machine learning in problems relating to information retrieval and the Web.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
+- Interpretability of learning systems
 - Information Retrieval
+- Representation learning for graphs
+- Scalable representation learning
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Information Retrieval
+    institution: Max Planck Insitute for Computer Science, Saarland University
+    year: 2013
+  - course: MSc in Computer Science
+    institution: Saarland University
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: BTech in Computer Science
+    institution: Indian Institute for Information Technology
+    year: 2005
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,21 +45,21 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'  # For a direct email link, use "mailto:anand@l3s.de".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/run4avi
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.de/citations?user=BMdfo4UAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/avishekanand
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -70,6 +71,5 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Avishek Anand is an Assistant Professor in the Leibniz University of Hannover.  His research broadly falls in the intersection of Machine learning on Web and information retrieval. Specifically, he is interested in scalable and interpretable representation learning methods for text and graphs. He holds a PhD in computer science from the Max Planck Insitute for Informatics, Saarbrücken. His research is supported by Amazon research awards and Schufa Gmbh. He has been a visiting scholar in Amazon Search. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
