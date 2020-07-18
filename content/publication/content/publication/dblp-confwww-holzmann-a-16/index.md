@@ -1,7 +1,7 @@
 ---
 title: "Tempas: Temporal Archive Search Based on Tags"
 date: 2016-01-01
-publishDate: 2020-06-14T20:39:30.349227Z
+publishDate: 2020-06-14T21:19:54.834091Z
 authors: ["Helge Holzmann", "Avishek Anand"]
 publication_types: ["1"]
 abstract: ""

@@ -1,7 +1,7 @@
 ---
 title: "Phrase Query Optimization on Inverted Indexes"
 date: 2014-01-01
-publishDate: 2020-06-14T20:39:30.352997Z
+publishDate: 2020-06-14T21:19:54.850302Z
 authors: ["Avishek Anand", "Ida Mele", "Srikanta J. Bedathur", "Klaus Berberich"]
 publication_types: ["1"]
 abstract: ""

@@ -1,7 +1,7 @@
 ---
 title: "Fine Grained Citation Span for References in Wikipedia"
 date: 2017-01-01
-publishDate: 2020-06-14T20:39:30.336365Z
+publishDate: 2020-06-14T21:19:54.820113Z
 authors: ["Besnik Fetahu", "Katja Markert", "Avishek Anand"]
 publication_types: ["1"]
 abstract: ""

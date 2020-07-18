@@ -1,7 +1,7 @@
 ---
 title: "Exploring Long Running News Stories using Wikipedia"
 date: 2015-01-01
-publishDate: 2020-06-14T20:39:30.352487Z
+publishDate: 2020-06-14T21:19:54.849747Z
 authors: ["Jaspreet Singh", "Abhijit Anand", "Vinay Setty", "Avishek Anand"]
 publication_types: ["1"]
 abstract: ""

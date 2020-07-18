@@ -1,7 +1,7 @@
 ---
 title: "The Knowledge Awakens: Keeping Knowledge Bases Fresh with Emerging Entities"
 date: 2016-01-01
-publishDate: 2020-06-14T20:39:30.348596Z
+publishDate: 2020-06-14T21:19:54.833263Z
 authors: ["Johannes Hoffart", "Dragan Milchevski", "Gerhard Weikum", "Avishek Anand", "Jaspreet Singh"]
 publication_types: ["1"]
 abstract: ""

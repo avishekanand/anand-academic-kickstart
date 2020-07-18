@@ -1,7 +1,7 @@
 ---
 title: "Exploring the past of the web: alexandria & archive-it hackathon"
 date: 2016-01-01
-publishDate: 2020-06-14T20:39:30.347936Z
+publishDate: 2020-06-14T21:19:54.832783Z
 authors: ["Avishek Anand", "Jefferson Bailey"]
 publication_types: ["1"]
 abstract: ""

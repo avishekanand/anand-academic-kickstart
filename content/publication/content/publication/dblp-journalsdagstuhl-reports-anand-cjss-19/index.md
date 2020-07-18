@@ -1,7 +1,7 @@
 ---
 title: "Conversational Search (Dagstuhl Seminar 19461)"
 date: 2019-01-01
-publishDate: 2020-06-14T20:39:30.327597Z
+publishDate: 2020-06-14T21:19:54.804872Z
 authors: ["Avishek Anand", "Lawrence Cavedon", "Hideo Joho", "Mark Sanderson", "Benno Stein"]
 publication_types: ["2"]
 abstract: ""

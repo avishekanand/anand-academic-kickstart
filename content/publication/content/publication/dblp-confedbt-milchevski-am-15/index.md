@@ -1,7 +1,7 @@
 ---
 title: "The Sweet Spot between Inverted Indices and Metric-Space Indexing for Top-K-List Similarity Search"
 date: 2015-01-01
-publishDate: 2020-06-14T20:39:30.351387Z
+publishDate: 2020-06-14T21:19:54.848700Z
 authors: ["Evica Milchevski", "Avishek Anand", "Sebastian Michel"]
 publication_types: ["1"]
 abstract: ""

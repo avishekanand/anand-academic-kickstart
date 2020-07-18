@@ -1,7 +1,7 @@
 ---
 title: "Effects of Algorithmic Decision-Making and Interpretability on Human Behavior: Experiments using Crowdsourcing"
 date: 2018-01-01
-publishDate: 2020-06-14T20:39:30.328605Z
+publishDate: 2020-06-14T21:19:54.806252Z
 authors: ["Avishek Anand", "Kilian Bizer", "Alexander Erlei", "Ujwal Gadiraju", "Christian Heinze", "Lukas Meub", "Wolfgang Nejdl", "Bjoern Steinroetter"]
 publication_types: ["1"]
 abstract: ""

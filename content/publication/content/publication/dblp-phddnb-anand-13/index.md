@@ -1,7 +1,7 @@
 ---
 title: "Indexing methods for web archives"
 date: 2013-01-01
-publishDate: 2020-06-14T20:39:30.353609Z
+publishDate: 2020-06-14T21:19:54.850974Z
 authors: ["Avishek Anand"]
 publication_types: ["7"]
 abstract: ""

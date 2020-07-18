@@ -1,7 +1,7 @@
 ---
 title: "How much is Wikipedia Lagging Behind News?"
 date: 2015-01-01
-publishDate: 2020-06-14T20:39:30.351920Z
+publishDate: 2020-06-14T21:19:54.849254Z
 authors: ["Besnik Fetahu", "Abhijit Anand", "Avishek Anand"]
 publication_types: ["1"]
 abstract: ""

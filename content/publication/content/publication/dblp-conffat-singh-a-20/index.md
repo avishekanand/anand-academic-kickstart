@@ -1,7 +1,7 @@
 ---
 title: "Model agnostic interpretability of rankers via intent modelling"
 date: 2020-01-01
-publishDate: 2020-06-14T20:39:30.315044Z
+publishDate: 2020-06-14T21:19:54.791415Z
 authors: ["Jaspreet Singh", "Avishek Anand"]
 publication_types: ["1"]
 abstract: ""

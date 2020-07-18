@@ -1,7 +1,7 @@
 ---
 title: "Toward Voice Query Clarification"
 date: 2018-01-01
-publishDate: 2020-06-14T20:39:30.329259Z
+publishDate: 2020-06-14T21:19:54.807160Z
 authors: ["Johannes Kiesel", "Arefeh Bahrami", "Benno Stein", "Avishek Anand", "Matthias Hagen"]
 publication_types: ["1"]
 abstract: ""

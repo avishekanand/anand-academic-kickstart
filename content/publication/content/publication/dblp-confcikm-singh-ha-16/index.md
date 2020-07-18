@@ -1,7 +1,7 @@
 ---
 title: "Discovering Entities with Just a Little Help from You"
 date: 2016-01-01
-publishDate: 2020-06-14T20:39:30.343924Z
+publishDate: 2020-06-14T21:19:54.828906Z
 authors: ["Jaspreet Singh", "Johannes Hoffart", "Avishek Anand"]
 publication_types: ["1"]
 abstract: ""

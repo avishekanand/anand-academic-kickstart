@@ -1,7 +1,7 @@
 ---
 title: "Exploring Web Archives Through Temporal Anchor Texts"
 date: 2017-01-01
-publishDate: 2020-06-14T20:39:30.337352Z
+publishDate: 2020-06-14T21:19:54.821038Z
 authors: ["Helge Holzmann", "Wolfgang Nejdl", "Avishek Anand"]
 publication_types: ["1"]
 abstract: ""

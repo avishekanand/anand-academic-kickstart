@@ -1,7 +1,7 @@
 ---
 title: "Finding Interpretable Concept Spaces in Node Embeddings using Knowledge Bases"
 date: 2019-01-01
-publishDate: 2020-06-14T20:39:30.327094Z
+publishDate: 2020-06-14T21:19:54.803939Z
 authors: ["Maximilian Idahl", "Megha Khosla", "Avishek Anand"]
 publication_types: ["2"]
 abstract: ""

@@ -1,7 +1,7 @@
 ---
 title: "Characterization and classification of semantic image-text relations"
 date: 2020-01-01
-publishDate: 2020-06-14T20:39:30.313993Z
+publishDate: 2020-06-14T21:19:54.790396Z
 authors: ["Christian Otto", "Matthias Springstein", "Avishek Anand", "Ralph Ewerth"]
 publication_types: ["2"]
 abstract: ""

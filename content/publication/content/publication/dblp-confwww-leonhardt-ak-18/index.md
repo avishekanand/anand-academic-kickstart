@@ -1,7 +1,7 @@
 ---
 title: "User Fairness in Recommender Systems"
 date: 2018-01-01
-publishDate: 2020-06-14T20:39:30.329969Z
+publishDate: 2020-06-14T21:19:54.807705Z
 authors: ["Jurek Leonhardt", "Avishek Anand", "Megha Khosla"]
 publication_types: ["1"]
 abstract: ""

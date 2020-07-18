@@ -1,7 +1,7 @@
 ---
 title: "EverLast: a distributed architecture for preserving the web"
 date: 2009-01-01
-publishDate: 2020-06-14T20:39:30.357182Z
+publishDate: 2020-06-14T21:19:54.854153Z
 authors: ["Avishek Anand", "Srikanta J. Bedathur", "Klaus Berberich", "Ralf Schenkel", "Christos Tryfonopoulos"]
 publication_types: ["1"]
 abstract: ""

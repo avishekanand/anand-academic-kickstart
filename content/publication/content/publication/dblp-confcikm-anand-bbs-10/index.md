@@ -1,7 +1,7 @@
 ---
 title: "Efficient temporal keyword search over versioned text"
 date: 2010-01-01
-publishDate: 2020-06-14T20:39:30.356667Z
+publishDate: 2020-06-14T21:19:54.853613Z
 authors: ["Avishek Anand", "Srikanta J. Bedathur", "Klaus Berberich", "Ralf Schenkel"]
 publication_types: ["1"]
 abstract: ""

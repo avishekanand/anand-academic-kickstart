@@ -1,7 +1,7 @@
 ---
 title: "Expedition: A Time-Aware Exploratory Search System Designed for Scholars"
 date: 2016-01-01
-publishDate: 2020-06-14T20:39:30.346668Z
+publishDate: 2020-06-14T21:19:54.831742Z
 authors: ["Jaspreet Singh", "Wolfgang Nejdl", "Avishek Anand"]
 publication_types: ["1"]
 abstract: ""

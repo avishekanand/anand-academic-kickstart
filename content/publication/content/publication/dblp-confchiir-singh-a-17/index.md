@@ -1,7 +1,7 @@
 ---
 title: "Designing Search Tasks for Archive Search"
 date: 2017-01-01
-publishDate: 2020-06-14T20:39:30.335837Z
+publishDate: 2020-06-14T21:19:54.819594Z
 authors: ["Jaspreet Singh", "Avishek Anand"]
 publication_types: ["1"]
 abstract: ""

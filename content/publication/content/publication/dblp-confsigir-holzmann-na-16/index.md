@@ -1,7 +1,7 @@
 ---
 title: "On the Applicability of Delicious for Temporal Search on Web Archives"
 date: 2016-01-01
-publishDate: 2020-06-14T20:39:30.346047Z
+publishDate: 2020-06-14T21:19:54.831222Z
 authors: ["Helge Holzmann", "Wolfgang Nejdl", "Avishek Anand"]
 publication_types: ["1"]
 abstract: ""

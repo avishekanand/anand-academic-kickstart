@@ -1,7 +1,7 @@
 ---
 title: "L3S at the NTCIR-12 Temporal Information Access (Temporalia-2) Task"
 date: 2016-01-01
-publishDate: 2020-06-14T20:39:30.345514Z
+publishDate: 2020-06-14T21:19:54.830576Z
 authors: ["Zeon Trevor Fernando", "Jaspreet Singh", "Avishek Anand"]
 publication_types: ["1"]
 abstract: ""

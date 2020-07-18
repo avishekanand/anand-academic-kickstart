@@ -1,7 +1,7 @@
 ---
 title: "BioNex: A System For Biomedical News Event Exploration"
 date: 2017-01-01
-publishDate: 2020-06-14T20:39:30.336876Z
+publishDate: 2020-06-14T21:19:54.820580Z
 authors: ["Patrick Ernst", "Arunav Mishra", "Avishek Anand", "Vinay Setty"]
 publication_types: ["1"]
 abstract: ""

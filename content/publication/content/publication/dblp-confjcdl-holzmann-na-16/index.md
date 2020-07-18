@@ -1,7 +1,7 @@
 ---
 title: "The Dawn of Today's Popular Domains: A Study of the Archived German Web over 18 Years"
 date: 2016-01-01
-publishDate: 2020-06-14T20:39:30.344502Z
+publishDate: 2020-06-14T21:19:54.829504Z
 authors: ["Helge Holzmann", "Wolfgang Nejdl", "Avishek Anand"]
 publication_types: ["1"]
 abstract: ""
