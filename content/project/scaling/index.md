@@ -40,11 +40,20 @@ url_video: ""
 slides: ""
 ---
 
-Machine learning models are progressively becoming complex and training datasets are getting larger by the data. Embeddings models are trained over Web scale collections of text and graphs, language models are learnt over millions or billions of sentences. It is fair to say that training machine learning models over huge datasets has reaped massive benefits over the last few years in downstream tasks but on the other hand has become computationally expensive. One of our goals is how to build large models -- embeddings models and language models over massive collections of text and graphs -- in reasonable time and modest academic hardware resources. In this stream of research we focus on investigating learning regimes using distributed and approximate algorithms to greatly improve training times of such large machine learning models.
+Machine learning models are progressively becoming complex and training datasets are getting larger by the data. Embeddings models are trained over Web scale collections of text and graphs, language models are learnt over millions or billions of sentences. It is fair to say that training machine learning models over huge datasets has reaped massive benefits over the last few years in downstream tasks but on the other hand has become computationally expensive. One of our goals is how to build large models -- embeddings models and language models over massive collections of text and graphs -- in reasonable time and modest academic hardware resources. In this stream of research we focus on investigating data management, extraction and learning regimes using distributed and approximate algorithms towards building large machine learning models.
 
+---
+## Projects
 
+This thread of my research is supported by the EU Project **[SoBigData](http://www.sobigdata.eu/index)**.
+SoBigData is a Pan European Research Infrastructure for Big Data and Social Mining.
+From data to knowledge, investigating stories ethically, paying attention to citizens privacy.
+
+---
 ## Publications
 
 [1] **[Asynchronous Training of Word Embeddings for Large Text Corpora](https://doi.org/10.1145/3289600.3291011)**. A. Anand, M. Khosla, J. Singh, J. Zab, Z. Zhang. <em>In International Conference on Web Search and Data Mining, WSDM 2019</em>.
 
 [2] **[Node Representation Learning for Directed Graphs](https://doi.org/10.1007/978-3-030-46150-8_24)**.  M. Khosla, J. Leonhardt, W. Nejdl, A. Anand. <em>Machine Learning and Knowledge Discovery in Databases - European Conference, ECML PKDD 2019</em>.
+
+[3] **[ArchiveSpark: Efficient Web Archive Access, Extraction and Derivation](https://doi.org/10.1145/2910896.2910902)**. H. Holzmann, V. Goel, A. Anand. <em>Joint Conference on Digital Libraries, JCDL 2016, Newark, NJ, USA, June 19 - 23, 2016</em>. (**Best Paper Nominee**)
