@@ -71,5 +71,4 @@ user_groups:
 - Visitors
 ---
 
-Avishek Anand is an Assistant Professor in the Leibniz University of Hannover.  His research broadly falls in the intersection of Machine learning on Web and information retrieval. Specifically, he is interested in scalable and interpretable representation learning methods for text and graphs. He holds a PhD in computer science from the Max Planck Insitute for Informatics, Saarbrücken. His research is supported by Amazon research awards and Schufa Gmbh. He has been a visiting scholar in Amazon Search. 
-
+Avishek Anand is an Assistant Professor in the Leibniz University of Hannover. His research aims to develop intelligent and transparent machine learning approaches to help humans find relevant information. His research broadly falls in the intersection of Machine learning on Web and information retrieval. Specifically, he is interested in scalable and interpretable representation learning methods for text and graphs. He holds a PhD in computer science from the Max Planck Insitute for Informatics, Saarbrücken. His research is supported by Amazon research awards and Schufa Gmbh. He has been a visiting scholar in Amazon Search. 

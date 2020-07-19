@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Large Scale Machine Learning"
-summary: "My research aims to develop intelligent and transparent machine learning approaches to help humans find relevant information. "
+summary: ""
 authors: []
 tags: []
 categories: []
