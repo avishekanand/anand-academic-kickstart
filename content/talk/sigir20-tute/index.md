@@ -1,29 +1,30 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Tutorial on Question Answering in SIGIR 2020"
-event:
-event_url:
-location:
+title: "Question Answering over Curated and Open Web Sources"
+event: SIGIR 2020
+event_url: "https://sigir.org/sigir2020/"
+location: "X'ian, China"
 address:
   street:
   city:
   region:
   postcode:
   country:
-summary:
-abstract:
+summary: "Question Answering over Curated and Open Web Sources"
+abstract: "The last few years have seen an explosion of research on the topic of automated question answering (QA), spanning the communities of information retrieval, natural language processing, and artificial intelligence. This tutorial would cover the highlights of this really active period of growth for QA to give the audience a grasp over the families of algorithms that are currently being used. We partition research contributions by the underlying source from where answers are retrieved: curated knowledge graphs, unstructured text, or hybrid corpora. We choose this dimension of partitioning as it is the most discriminative when it comes to algorithm design. Other key dimensions are covered within each sub-topic: like the complexity of questions addressed, and degrees of explainability and interactivity introduced in the systems. We would conclude the tutorial with the most promising emerging trends in the expanse of QA, that would help new entrants into this field make the best decisions to take the community forward. Much has changed in the community since the last tutorial on QA in SIGIR 2016, and we believe that this timely overview will indeed benefit a large number of conference participants.
+"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2020-07-19T14:47:22+02:00
-date_end: 2020-07-19T14:47:22+02:00
+date: 2020-07-26T14:47:22+02:00
+date_end: 2020-07-26T14:47:22+02:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: 2020-07-19T14:47:22+02:00
 
-authors: []
+authors: [Rishiraj Saha Roy and Avishek Anand]
 tags: []
 
 # Is this a featured talk? (true/false)
@@ -46,11 +47,11 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides:
+url_slides: "https://arxiv.org/pdf/2004.11980.pdf"
 
 url_code:
 url_pdf: "https://arxiv.org/pdf/2004.11980.pdf"
-url_video:
+url_video: "https://arxiv.org/pdf/2004.11980.pdf"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -66,16 +67,13 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-
-The last few years have seen an explosion of research on the topic of automated question answering (QA), spanning the communities of information retrieval, natural language processing, and artificial intelligence. This tutorial would cover the highlights of this really active period of growth for QA to give the audience a grasp over the families of algorithms that are currently being used. We partition research contributions by the underlying source from where answers are retrieved: curated knowledge graphs, unstructured text, or hybrid corpora. We choose this dimension of partitioning as it is the most discriminative when it comes to algorithm design. Other key dimensions are covered within each sub-topic: like the complexity of questions addressed, and degrees of explainability and interactivity introduced in the systems. We would conclude the tutorial with the most promising emerging trends in the expanse of QA, that would help new entrants into this field make the best decisions to take the community forward. Much has changed in the community since the last tutorial on QA in SIGIR 2016, and we believe that this timely overview will indeed benefit a large number of conference participants.
-
 This half-day tutorial is divided into two parts of 90 minutes each -- QA over Knowledge graphs, and QA over Text. The schedule and slides are below.
 
 ## Contents
 
- 1. **[Question Answering over Knowledge Graphs](https://doi.org/10.1145/3289600.3291011)**
+ 1. **[Question Answering over Knowledge Graphs](https://doi.org/10.1145/3289600.3291011)** by [Rishiraj Saha Roy](http://people.mpi-inf.mpg.de/~rsaharo/)
 
- 2. **[Question Answering over Textual Sources](sd.)**
+ 2. **[Question Answering over Textual Sources](sd.)** by [Avishek Anand](http://www.avishekanand.com)
 
 ---
 ## References
