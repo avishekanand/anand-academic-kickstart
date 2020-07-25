@@ -69,6 +69,8 @@ projects: []
 ---
 This half-day tutorial is divided into two parts of 90 minutes each -- QA over Knowledge graphs, and QA over Text. The schedule and slides are below.
 
+<br>
+
 ## Contents
 
  1. **[Question Answering over Knowledge Graphs](http://people.mpi-inf.mpg.de/~rsaharo/sigir20slides_rsr.pdf)** by [Rishiraj Saha Roy](http://people.mpi-inf.mpg.de/~rsaharo/)
@@ -89,9 +91,12 @@ This half-day tutorial is divided into two parts of 90 minutes each -- QA over K
     - [Conversational QA](http://www.l3s.de/~anand/talks/text-conversational-qa.pdf)
     - [Summary](http://www.l3s.de/~anand/talks/text-conclusions.pdf)
 
+<br>
 
 ---
 ## References
+
+<br>
 
 [1] Abdalghani Abujabal,Rishiraj Saha Roy,Mohamed Yahya,and Gerhard Weikum. 2017. QUINT: Interpretable Question Answering over Knowledge Bases. In EMNLP.
 
