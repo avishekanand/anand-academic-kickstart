@@ -73,7 +73,7 @@ This half-day tutorial is divided into two parts of 90 minutes each -- QA over K
 
  1. **[Question Answering over Knowledge Graphs](https://doi.org/10.1145/3289600.3291011)** by [Rishiraj Saha Roy](http://people.mpi-inf.mpg.de/~rsaharo/)
 
- 2. **[Question Answering over Textual Sources](sd.)** by [Avishek Anand](http://www.avishekanand.com)
+ 2. **[Question Answering over Textual Sources](http://www.l3s.de/~anand/talks/2020-07-26-sigir20-qa-tute-text.pdf)** by [Avishek Anand](http://www.avishekanand.com)
 
 ---
 ## References
