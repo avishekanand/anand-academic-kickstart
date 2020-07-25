@@ -71,9 +71,24 @@ This half-day tutorial is divided into two parts of 90 minutes each -- QA over K
 
 ## Contents
 
- 1. **[Question Answering over Knowledge Graphs](https://doi.org/10.1145/3289600.3291011)** by [Rishiraj Saha Roy](http://people.mpi-inf.mpg.de/~rsaharo/)
+ 1. **[Question Answering over Knowledge Graphs](http://people.mpi-inf.mpg.de/~rsaharo/sigir20slides_rsr.pdf)** by [Rishiraj Saha Roy](http://people.mpi-inf.mpg.de/~rsaharo/)
+    - [Background](http://people.mpi-inf.mpg.de/~rsaharo/sigir20slides_rsr-part-1.pdf)
+    - [Simple QA](http://people.mpi-inf.mpg.de/~rsaharo/sigir20slides_rsr-part-2.pdf)  
+    - [Complex QA](http://people.mpi-inf.mpg.de/~rsaharo/sigir20slides_rsr-part-3.pdf)
+    - [Heterogeneous QA](http://people.mpi-inf.mpg.de/~rsaharo/sigir20slides_rsr-part-4.pdf)
+    - [Conversational QA](http://people.mpi-inf.mpg.de/~rsaharo/sigir20slides_rsr-part-5.pdf)
+    - [Summary](http://people.mpi-inf.mpg.de/~rsaharo/sigir20slides_rsr-part-6.pdf)
+
+<br>    
 
  2. **[Question Answering over Textual Sources](http://www.l3s.de/~anand/talks/2020-07-26-sigir20-qa-tute-text.pdf)** by [Avishek Anand](http://www.avishekanand.com)
+    - [Background](http://www.l3s.de/~anand/talks/text-intro.pdf)
+    - [Machine Reading](http://www.l3s.de/~anand/talks/text-mrc.pdf)  
+    - [Open-domain QA](http://www.l3s.de/~anand/talks/text-odqa.pdf)
+    - [Feedback and Interpretability](http://www.l3s.de/~anand/talks/text-feedback-interpretability.pdf)
+    - [Conversational QA](http://www.l3s.de/~anand/talks/text-conversational-qa.pdf)
+    - [Summary](http://www.l3s.de/~anand/talks/text-conclusions.pdf)
+
 
 ---
 ## References
@@ -104,11 +119,11 @@ This half-day tutorial is divided into two parts of 90 minutes each -- QA over K
 
 [13] Kurt Bollacker, Colin Evans, Praveen Paritosh, Tim Sturge, and Jamie Taylor. 2008. Freebase: A collaboratively created graph database for structuring human knowledge. In SIGMOD.
 
-[14] Pavel Braslavski,Denis Savenkov, Eugene Agichtein, and Alina Dubatovka. 2017. What do you mean exactly? Analyzing clarification questions in CQA. In CHIIR.
+[14] Pavel Braslavski, Denis Savenkov, Eugene Agichtein, and Alina Dubatovka. 2017. What do you mean exactly? Analyzing clarification questions in CQA. In CHIIR.
 
 [15] Danqi Chen, Adam Fisch, Jason Weston, and Antoine Bordes. 2017. Reading Wikipedia to Answer Open-Domain Questions. In ACL.
 
-[16] Yu Chen,Lingfei Wu,and Mohammed J Zaki.2019. Bidirectional Attentive Memory Networks for Question Answering over Knowledge Bases. In NAACL-HLT.
+[16] Yu Chen, Lingfei Wu, and Mohammed J Zaki.2019. Bidirectional Attentive Memory Networks for Question Answering over Knowledge Bases. In NAACL-HLT.
 
 [17] Eunsol Choi, He He, Mohit Iyyer, Mark Yatskar, Wen-tau Yih, Yejin Choi, Percy Liang, and Luke Zettlemoyer. 2018. QuAC: Question answering in context. In EMNLP.
 
@@ -122,7 +137,7 @@ This half-day tutorial is divided into two parts of 90 minutes each -- QA over K
 
 [22] Silviu Cucerzan and Eugene Agichtein. 2005. Factoid Question Answering over Unstructured and Structured Web Content. In TREC.
 
-[23] JeffreyDalton,ChenyanXiong,andJamieCallan.2019. CAsT2019: The conversational assistance track overview. In TREC.
+[23] Jeffrey Dalton,Chenyan Xiong,and Jamie Callan.2019. CAsT2019: The conversational assistance track overview. In TREC.
 
 [24] Rajarshi Das, Shehzaad Dhuliawala, Manzil Zaheer, Luke Vilnis, Ishan Durugkar, Akshay Krishnamurthy, Alex Smola, and Andrew McCallum. 2018. Go for a walk and arrive at the answer: Reasoning over paths in knowledge bases using reinforcement learning. In ICLR.
 
