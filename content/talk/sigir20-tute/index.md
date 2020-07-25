@@ -17,8 +17,8 @@ abstract: "The last few years have seen an explosion of research on the topic of
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2020-07-26T14:47:22+02:00
-date_end: 2020-07-26T14:47:22+02:00
+date: 2020-07-26T14:00:00+08:00
+date_end: 2020-07-26T17:00:00+08:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
