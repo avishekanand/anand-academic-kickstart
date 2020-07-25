@@ -47,7 +47,7 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides: "https://arxiv.org/pdf/2004.11980.pdf"
+url_slides: "http://www.l3s.de/~anand/talks/2020-07-26-sigir20-qa-tute-text.pdf"
 
 url_code:
 url_pdf: "https://arxiv.org/pdf/2004.11980.pdf"
