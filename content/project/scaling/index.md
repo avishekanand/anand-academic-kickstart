@@ -57,3 +57,9 @@ From data to knowledge, investigating stories ethically, paying attention to cit
 [2] **[Node Representation Learning for Directed Graphs](https://doi.org/10.1007/978-3-030-46150-8_24)**.  M. Khosla, J. Leonhardt, W. Nejdl, A. Anand. <em>Machine Learning and Knowledge Discovery in Databases - European Conference, ECML PKDD 2019</em>.
 
 [3] **[ArchiveSpark: Efficient Web Archive Access, Extraction and Derivation](https://doi.org/10.1145/2910896.2910902)**. H. Holzmann, V. Goel, A. Anand. <em>Joint Conference on Digital Libraries, JCDL 2016, Newark, NJ, USA, June 19 - 23, 2016</em>. (**Best Paper Nominee**)
+
+[4] **[A Comparative Study for Unsupervised Network Representation Learning](https://arxiv.org/pdf/1903.07902.pdf)**. Megha Khosla, Vinay Setty, Avishek Anand. <em>in Transactions on Knowledge and Data Engineering (TKDE), 2020.</em>.
+
+[5] **[Delusive PageRank in Incomplete Graphs.](https://link.springer.com/chapter/10.1007/978-3-030-05411-3_9)**. Helge Holzmann, Avishek Anand and Megha Khosla. <em>in Complex Networks 2018.</em>.
+
+[6] **[Estimating PageRank Deviations in Crawled Graphs.](https://link.springer.com/chapter/10.1007/978-3-030-05411-3_9)**. Helge Holzmann, Avishek Anand and Megha Khosla. <em>in Journal of Applied Network Science, 2019.</em>.

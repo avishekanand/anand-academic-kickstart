@@ -39,13 +39,24 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-Web archives such as Internet Archive and Internet Memory have been involved in periodically archiving websites for over 17 years with collection sizes amounting to several Terabytes of data. Similarly, many news companies such as The New York Times, Wall Street Journal, The Times archive both their published digital content as well as digitize non-digital articles. In spite of the progresses in preservation, search capabilities over archives have been limited. A naive adaptation of the indexing infrastructure used for text retrieval is expensive and does not capture the temporal dimension inherent to such archives. To this end, we presented a novel index organization that process queries with almost zero increase in index size. We further proposed novel query optimization techniques and phrase indexing techniques to efficiently support a wider ranger of queries.
+My main focus in information retrieval is currently investigating neural models for ranking models for document retrieval and open-domain question answering. I also work extensively on temporal information retrieval and enrichment of textual knowledge sources like Wikipedia.
+
+While searching for articles published over time, a key preference is to retrieve documents which cover the important aspects from important points in time which is different from standard search behavior. To support such a search strategy, we introduce the notion of a Historical Query Intent to explicitly model a historian's search task and define an aspect-time diversification problem over news archives. We present novel algorithms and build a search system called HistDiv over 20 years of New York Times, that explicitly models the aspects and important time windows based on a historian's information seeking behavior.
+
+---
+## Publications
 
 
-While searching for articles published over time, a key preference is to retrieve documents which cover the important aspects from important points in time which is different from standard search behavior. To support such a search strategy, we introduce the notion of a Historical Query Intent to explicitly model a historian's search task and define an aspect-time diversification problem over news archives. We present novel algorithms and build a search system called HistDiv over 20 years of New York Times, that explicitly models the aspects and important time windows based on a historian's information seeking behavior. 
+[1] **[Distant supervision in BERT-based Adhoc Document Retrieval.]()**. Koustav Rudra, Avishek Anand. <em>In CIKM 2020 (to appear).</em>.
 
+[2] **[Modeling Event Importance for Ranking Daily News Events.]()**. Vinay Setty, Abhijit Anand, Arunav Mishra, Avishek Anand. <em>In WSDM 2017.</em>.
 
-[1] http://www.archive.org
-[2] http://www.internetmemory.org
-[3] http://www.l3s.de/~anand/histdiv/
-[4]
+[3] **[Fine-Grained Citation Span Detection for References in Wikipedia.]()**. Besnik Fetahu, Katja Markert, Avishek Anand. <em>In EMNLP 2017.</em>.
+
+[4] **[Discovering Entities with Just a Little Help from You.]()**. Jaspreet Singh, Johannes Hoffart, Avishek Anand. <em>In CIKM 2016.</em>.
+
+[5] **[Finding News Citations for Wikipedia.]()**. Besnik Fetahu, Katja Markert, Wolfgang Nejdl, Avishek Anand. <em>In CIKM 2016.</em>.
+
+[6] **[Balancing Novelty and Salience: Adaptive Learning to Rank Entities for Timeline Summarization of High-impact Events.]()**. Tuan Tran, Nattiya Kahnabua, Claudia Niederee, Avishek Anand. <em>In CIKM 2015.</em>.
+
+[7]  **[Index Maintenance for Time-Travel Text Search.]()**. Avishek Anand, Srikanta Bedathur, Klaus Berberich, Ralf Schenkel. <em>In SIGIR 2012.</em>.
