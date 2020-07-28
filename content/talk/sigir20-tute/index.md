@@ -73,13 +73,13 @@ This half-day tutorial is divided into two parts of 90 minutes each -- QA over K
 
 ## Contents
 
- 1. **[Question Answering over Knowledge Graphs](http://people.mpi-inf.mpg.de/~rsaharo/sigir20slides_rsr.pdf)** by [Rishiraj Saha Roy](http://people.mpi-inf.mpg.de/~rsaharo/)
-    - [Background](http://people.mpi-inf.mpg.de/~rsaharo/sigir20slides_rsr-part-1.pdf)
-    - [Simple QA](http://people.mpi-inf.mpg.de/~rsaharo/sigir20slides_rsr-part-2.pdf)  
-    - [Complex QA](http://people.mpi-inf.mpg.de/~rsaharo/sigir20slides_rsr-part-3.pdf)
-    - [Heterogeneous QA](http://people.mpi-inf.mpg.de/~rsaharo/sigir20slides_rsr-part-4.pdf)
-    - [Conversational QA](http://people.mpi-inf.mpg.de/~rsaharo/sigir20slides_rsr-part-5.pdf)
-    - [Summary](http://people.mpi-inf.mpg.de/~rsaharo/sigir20slides_rsr-part-6.pdf)
+ 1. **[Question Answering over Knowledge Graphs](http://people.mpi-inf.mpg.de/~rsaharo/sigir20slides_rsr.pdf)** by [Rishiraj Saha Roy](http://people.mpi-inf.mpg.de/~rsaharo/) . [[Full Video]](http://people.mpi-inf.mpg.de/~rsaharo/sigir20slides_rsr.mp4)
+    - [Background](http://people.mpi-inf.mpg.de/~rsaharo/sigir20slides_rsr-part-1.pdf). [[video]](http://people.mpi-inf.mpg.de/~rsaharo/sigir20slides_rsr-part-1.mp4)
+    - [Simple QA](http://people.mpi-inf.mpg.de/~rsaharo/sigir20slides_rsr-part-2.pdf). [[video]](http://people.mpi-inf.mpg.de/~rsaharo/sigir20slides_rsr-part-2.mp4)  
+    - [Complex QA](http://people.mpi-inf.mpg.de/~rsaharo/sigir20slides_rsr-part-3.pdf). [[video]](http://people.mpi-inf.mpg.de/~rsaharo/sigir20slides_rsr-part-3.mp4)
+    - [Heterogeneous QA](http://people.mpi-inf.mpg.de/~rsaharo/sigir20slides_rsr-part-4.pdf). [[video]](http://people.mpi-inf.mpg.de/~rsaharo/sigir20slides_rsr-part-4.mp4)
+    - [Conversational QA](http://people.mpi-inf.mpg.de/~rsaharo/sigir20slides_rsr-part-5.pdf). [[video]](http://people.mpi-inf.mpg.de/~rsaharo/sigir20slides_rsr-part-5.mp4)
+    - [Summary](http://people.mpi-inf.mpg.de/~rsaharo/sigir20slides_rsr-part-6.pdf). [[video]](http://people.mpi-inf.mpg.de/~rsaharo/sigir20slides_rsr-part-6.mp4)
 
 <br>    
 
