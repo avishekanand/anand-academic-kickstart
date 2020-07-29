@@ -47,11 +47,11 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides: "http://www.l3s.de/~anand/talks/2020-07-26-sigir20-qa-tute-FULL.pdf"
+url_slides: "http://people.mpi-inf.mpg.de/~rsaharo/sigir20slides.pdf"
 
 url_code:
 url_pdf: "https://arxiv.org/pdf/2004.11980.pdf"
-url_video: "https://arxiv.org/pdf/2004.11980.pdf"
+url_video: ""
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -73,13 +73,13 @@ This half-day tutorial is divided into two parts of 90 minutes each -- QA over K
 
 ## Contents
 
- 1. **[Question Answering over Knowledge Graphs](http://people.mpi-inf.mpg.de/~rsaharo/sigir20slides_rsr.pdf)** by [Rishiraj Saha Roy](http://people.mpi-inf.mpg.de/~rsaharo/) . [[Full Video]](http://people.mpi-inf.mpg.de/~rsaharo/sigir20slides_rsr.mp4)
-    - [Background](http://people.mpi-inf.mpg.de/~rsaharo/sigir20slides_rsr-part-1.pdf). [[video]](http://people.mpi-inf.mpg.de/~rsaharo/sigir20slides_rsr-part-1.mp4)
-    - [Simple QA](http://people.mpi-inf.mpg.de/~rsaharo/sigir20slides_rsr-part-2.pdf). [[video]](http://people.mpi-inf.mpg.de/~rsaharo/sigir20slides_rsr-part-2.mp4)  
-    - [Complex QA](http://people.mpi-inf.mpg.de/~rsaharo/sigir20slides_rsr-part-3.pdf). [[video]](http://people.mpi-inf.mpg.de/~rsaharo/sigir20slides_rsr-part-3.mp4)
-    - [Heterogeneous QA](http://people.mpi-inf.mpg.de/~rsaharo/sigir20slides_rsr-part-4.pdf). [[video]](http://people.mpi-inf.mpg.de/~rsaharo/sigir20slides_rsr-part-4.mp4)
-    - [Conversational QA](http://people.mpi-inf.mpg.de/~rsaharo/sigir20slides_rsr-part-5.pdf). [[video]](http://people.mpi-inf.mpg.de/~rsaharo/sigir20slides_rsr-part-5.mp4)
-    - [Summary](http://people.mpi-inf.mpg.de/~rsaharo/sigir20slides_rsr-part-6.pdf). [[video]](http://people.mpi-inf.mpg.de/~rsaharo/sigir20slides_rsr-part-6.mp4)
+ 1. **[Question Answering over Knowledge Graphs](http://people.mpi-inf.mpg.de/~rsaharo/sigir20slides_rsr.pdf)** by [Rishiraj Saha Roy](http://people.mpi-inf.mpg.de/~rsaharo/).  [[Full Video]](http://people.mpi-inf.mpg.de/~rsaharo/sigir20slides_rsr.mp4)
+    - [Background](http://people.mpi-inf.mpg.de/~rsaharo/sigir20slides_rsr-part-1.pdf). [:  :](http://people.mpi-inf.mpg.de/~rsaharo/sigir20slides_rsr-part-1.mp4)
+    - [Simple QA](http://people.mpi-inf.mpg.de/~rsaharo/sigir20slides_rsr-part-2.pdf). [:movie_camera:](http://people.mpi-inf.mpg.de/~rsaharo/sigir20slides_rsr-part-2.mp4)  
+    - [Complex QA](http://people.mpi-inf.mpg.de/~rsaharo/sigir20slides_rsr-part-3.pdf). [:movie_camera:](http://people.mpi-inf.mpg.de/~rsaharo/sigir20slides_rsr-part-3.mp4)
+    - [Heterogeneous QA](http://people.mpi-inf.mpg.de/~rsaharo/sigir20slides_rsr-part-4.pdf). [:movie_camera:](http://people.mpi-inf.mpg.de/~rsaharo/sigir20slides_rsr-part-4.mp4)
+    - [Conversational QA](http://people.mpi-inf.mpg.de/~rsaharo/sigir20slides_rsr-part-5.pdf). [:movie_camera:](http://people.mpi-inf.mpg.de/~rsaharo/sigir20slides_rsr-part-5.mp4)
+    - [Summary](http://people.mpi-inf.mpg.de/~rsaharo/sigir20slides_rsr-part-6.pdf). [:movie_camera:](http://people.mpi-inf.mpg.de/~rsaharo/sigir20slides_rsr-part-6.mp4)
 
 <br>    
 
