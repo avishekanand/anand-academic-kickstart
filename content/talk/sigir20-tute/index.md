@@ -74,7 +74,7 @@ This half-day tutorial is divided into two parts of 90 minutes each -- QA over K
 ## Contents
 
  1. **[Question Answering over Knowledge Graphs](http://people.mpi-inf.mpg.de/~rsaharo/sigir20slides_rsr.pdf)** by [Rishiraj Saha Roy](http://people.mpi-inf.mpg.de/~rsaharo/).  [[Full Video]](http://people.mpi-inf.mpg.de/~rsaharo/sigir20slides_rsr.mp4)
-    - [Background](http://people.mpi-inf.mpg.de/~rsaharo/sigir20slides_rsr-part-1.pdf). [:  :](http://people.mpi-inf.mpg.de/~rsaharo/sigir20slides_rsr-part-1.mp4)
+    - [Background](http://people.mpi-inf.mpg.de/~rsaharo/sigir20slides_rsr-part-1.pdf). [:movie_camera:](http://people.mpi-inf.mpg.de/~rsaharo/sigir20slides_rsr-part-1.mp4)
     - [Simple QA](http://people.mpi-inf.mpg.de/~rsaharo/sigir20slides_rsr-part-2.pdf). [:movie_camera:](http://people.mpi-inf.mpg.de/~rsaharo/sigir20slides_rsr-part-2.mp4)  
     - [Complex QA](http://people.mpi-inf.mpg.de/~rsaharo/sigir20slides_rsr-part-3.pdf). [:movie_camera:](http://people.mpi-inf.mpg.de/~rsaharo/sigir20slides_rsr-part-3.mp4)
     - [Heterogeneous QA](http://people.mpi-inf.mpg.de/~rsaharo/sigir20slides_rsr-part-4.pdf). [:movie_camera:](http://people.mpi-inf.mpg.de/~rsaharo/sigir20slides_rsr-part-4.mp4)
