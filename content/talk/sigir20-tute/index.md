@@ -85,7 +85,7 @@ This half-day tutorial is divided into two parts of 90 minutes each -- QA over K
 
  2. **[Question Answering over Textual Sources](http://www.l3s.de/~anand/talks/2020-07-26-sigir20-qa-tute-text.pdf)** by [Avishek Anand](http://www.avishekanand.com)
     - [Background](http://www.l3s.de/~anand/talks/text-intro.pdf)
-    - [Machine Reading](http://www.l3s.de/~anand/talks/text-mrc.pdf)  
+    - [Machine Reading Comprehension](http://www.l3s.de/~anand/talks/text-mrc.pdf)  
     - [Open-domain QA](http://www.l3s.de/~anand/talks/text-odqa.pdf)
     - [Feedback and Interpretability](http://www.l3s.de/~anand/talks/text-feedback-interpretability.pdf)
     - [Conversational QA](http://www.l3s.de/~anand/talks/text-conversational-qa.pdf)
