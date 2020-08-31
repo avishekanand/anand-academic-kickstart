@@ -2,9 +2,10 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Question Answering over Curated and Open Web Sources"
-event: SIGIR 2020
+event: SIGIR 2020, ICTIR 2020
 event_url: "https://sigir.org/sigir2020/"
-location: "X'ian, China"
+event_url: "https://ictir2020.org/"
+location: "X'ian(SIGIR), Stavanger(ICTIR)"
 address:
   street:
   city:
@@ -17,8 +18,8 @@ abstract: "The last few years have seen an explosion of research on the topic of
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2020-07-26T14:00:00+08:00
-date_end: 2020-07-26T17:00:00+08:00
+date: 2020-10-26T14:00:00+08:00
+date_end: 2020-10-26T17:00:00+08:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
