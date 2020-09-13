@@ -18,8 +18,8 @@ abstract: "The last few years have seen an explosion of research on the topic of
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2020-10-26T14:00:00+08:00
-date_end: 2020-10-26T17:00:00+08:00
+date: 2020-09-14T09:00:00+01:00
+date_end: 2020-10-14T12:30:00+01:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -85,12 +85,12 @@ This half-day tutorial is divided into two parts of 90 minutes each -- QA over K
 <br>    
 
  2. **[Question Answering over Textual Sources](http://www.l3s.de/~anand/talks/2020-07-26-sigir20-qa-tute-text.pdf)** by [Avishek Anand](http://www.avishekanand.com)
-    - [Background](http://www.l3s.de/~anand/talks/text-intro.pdf)
-    - [Machine Reading Comprehension](http://www.l3s.de/~anand/talks/text-mrc.pdf)  
-    - [Open-domain QA](http://www.l3s.de/~anand/talks/text-odqa.pdf)
-    - [Feedback and Interpretability](http://www.l3s.de/~anand/talks/text-feedback-interpretability.pdf)
-    - [Conversational QA](http://www.l3s.de/~anand/talks/text-conversational-qa.pdf)
-    - [Summary](http://www.l3s.de/~anand/talks/text-conclusions.pdf)
+    - [Background](http://www.l3s.de/~anand/talks/text-intro.pdf) [:movie_camera:](http://www.l3s.de/~anand/qa-tute/text-intro.mp4)
+    - [Machine Reading Comprehension](http://www.l3s.de/~anand/talks/text-mrc.pdf)  [:movie_camera:](http://www.l3s.de/~anand/qa-tute/text-mrc.mp4)
+    - [Open-domain QA](http://www.l3s.de/~anand/talks/text-odqa.pdf) [:movie_camera:](http://www.l3s.de/~anand/qa-tute/text-odqa.mp4)
+    - [Feedback and Interpretability](http://www.l3s.de/~anand/talks/text-feedback-interpretability.pdf) [:movie_camera:](http://www.l3s.de/~anand/qa-tute/text-feedback-interpretability.mp4)
+    - [Conversational QA](http://www.l3s.de/~anand/talks/text-conversational-qa.pdf) [:movie_camera:](http://www.l3s.de/~anand/qa-tute/text-conv-qa.mp4)
+    - [Summary](http://www.l3s.de/~anand/talks/text-conclusions.pdf) [:movie_camera:](http://people.mpi-inf.mpg.de/~rsaharo/sigir20slides_rsr-part-1.mp4)
 
 <br>
 
