@@ -51,7 +51,7 @@ Recently, we investigated the difference between human understanding and machine
 ---
 ## Projects
 
-This thread of my research is supported by **[Amazon research Awards](https://ara.amazon-ml.com/recipients/#2017)** and **[Schufa Gmbh](https://www.schufa.de/en/)**.
+This thread of my research is supported by the **[German Science Foundation or DFG](wwww.dfg.de)** , **[Amazon research Awards](https://ara.amazon-ml.com/recipients/#2017)** and **[Schufa Gmbh](https://www.schufa.de/en/)**.
 
 ---
 ## Publications
