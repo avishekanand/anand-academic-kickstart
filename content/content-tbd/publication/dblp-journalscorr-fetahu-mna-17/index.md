@@ -6,7 +6,6 @@ authors: ["Besnik Fetahu", "Katja Markert", "Wolfgang Nejdl", "Avishek Anand"]
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "*CoRR*"
+publication: "Arxiv Publication"
 url_pdf: "http://arxiv.org/abs/1703.10339"
 ---
-
