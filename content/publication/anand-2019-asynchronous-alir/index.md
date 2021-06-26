@@ -1,7 +1,7 @@
 ---
 title: "Asynchronous Training of Word Embeddings for Large Text Corpora"
 date: 2019-01-01
-publishDate: 2021-06-26T11:56:58.073904Z
+publishDate: 2021-06-26T18:25:03.004997Z
 authors: ["Avishek Anand", "Megha Khosla", "Jaspreet Singh", "Jan-Hendrik Zab", "Zijian Zhang"]
 publication_types: ["2"]
 abstract: ""

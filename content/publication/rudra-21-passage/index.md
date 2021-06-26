@@ -1,7 +1,7 @@
 ---
 title: "An In-depth Analysis of Passage-Level Label Transfer for Contextual Document Ranking"
 date: 2021-01-01
-publishDate: 2021-06-26T11:56:58.084832Z
+publishDate: 2021-06-26T18:25:03.015772Z
 authors: ["Koustav Rudra", "Zeon Trevor Fernando", "Avishek Anand"]
 publication_types: ["2"]
 abstract: ""

@@ -1,7 +1,7 @@
 ---
 title: "Temporal Information Retrieval"
 date: 2016-01-01
-publishDate: 2021-06-26T11:56:58.067814Z
+publishDate: 2021-06-26T18:25:02.998348Z
 authors: ["Nattiya Kanhabua", "Avishek Anand"]
 publication_types: ["1"]
 abstract: ""

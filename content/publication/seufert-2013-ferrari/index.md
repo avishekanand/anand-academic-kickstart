@@ -1,7 +1,7 @@
 ---
 title: "Ferrari: Flexible and efficient reachability range assignment for graph indexing"
 date: 2013-01-01
-publishDate: 2021-06-26T11:56:58.069994Z
+publishDate: 2021-06-26T18:25:03.000506Z
 authors: ["Stephan Seufert", "Avishek Anand", "Srikanta Bedathur", "Gerhard Weikum"]
 publication_types: ["1"]
 abstract: ""

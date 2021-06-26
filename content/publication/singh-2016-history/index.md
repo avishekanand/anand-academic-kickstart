@@ -1,7 +1,7 @@
 ---
 title: "History by diversity: Helping historians search news archives"
 date: 2016-01-01
-publishDate: 2021-06-26T11:56:58.061023Z
+publishDate: 2021-06-26T18:25:02.991316Z
 authors: ["Jaspreet Singh", "Wolfgang Nejdl", "Avishek Anand"]
 publication_types: ["1"]
 abstract: ""

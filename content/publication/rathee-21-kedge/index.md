@@ -1,7 +1,7 @@
 ---
 title: "Learnt Sparsification for Interpretable Graph Neural Networks"
 date: 2021-01-01
-publishDate: 2021-06-26T11:56:58.091308Z
+publishDate: 2021-06-26T18:25:03.021784Z
 authors: ["Mandeep Rathee", "Zijian Zhang", "Thorben Funke", "Megha Khosla", "Avishek Anand"]
 publication_types: ["2"]
 abstract: ""
