@@ -1,7 +1,7 @@
 ---
 title: "Temporal index sharding for space-time efficiency in archive search"
 date: 2011-01-01
-publishDate: 2021-06-26T10:23:38.867104Z
+publishDate: 2021-06-26T11:56:58.056181Z
 authors: ["Avishek Anand", "Srikanta Bedathur", "Klaus Berberich", "Ralf Schenkel"]
 publication_types: ["1"]
 abstract: ""

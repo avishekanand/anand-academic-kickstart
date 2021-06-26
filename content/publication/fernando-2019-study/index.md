@@ -1,11 +1,12 @@
 ---
 title: "A study on the Interpretability of Neural Retrieval Models using DeepSHAP"
 date: 2019-01-01
-publishDate: 2021-06-26T10:23:38.886860Z
+publishDate: 2021-06-26T11:56:58.076560Z
 authors: ["Zeon Trevor Fernando", "Jaspreet Singh", "Avishek Anand"]
 publication_types: ["1"]
 abstract: ""
 featured: false
 publication: "*Proceedings of the 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval*"
+url_pdf: "https://arxiv.org/pdf/1907.06484.pdf"
 ---
 

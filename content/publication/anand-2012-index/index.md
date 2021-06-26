@@ -1,7 +1,7 @@
 ---
 title: "Index maintenance for time-travel text search"
 date: 2012-01-01
-publishDate: 2021-06-26T10:23:38.867534Z
+publishDate: 2021-06-26T11:56:58.056629Z
 authors: ["Avishek Anand", "Srikanta Bedathur", "Klaus Berberich", "Ralf Schenkel"]
 publication_types: ["1"]
 abstract: ""

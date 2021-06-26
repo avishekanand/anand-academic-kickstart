@@ -1,7 +1,7 @@
 ---
 title: "What the HAK? Estimating Ranking Deviations in Incomplete Graphs"
 date: 2018-01-01
-publishDate: 2021-06-26T10:23:38.882692Z
+publishDate: 2021-06-26T11:56:58.071976Z
 authors: ["Helge Holzmann", "Avishek Anand", "Megha Khosla"]
 publication_types: ["1"]
 abstract: ""

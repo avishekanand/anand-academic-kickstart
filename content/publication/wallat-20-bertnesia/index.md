@@ -1,7 +1,7 @@
 ---
 title: "BERTnesia: Investigating the capture and forgetting of knowledge in BERT"
 date: 2020-01-01
-publishDate: 2021-06-26T10:23:38.897295Z
+publishDate: 2021-06-26T11:56:58.089365Z
 authors: ["Jaspreet Singh", "Jonas Wallat", "Avishek Anand"]
 publication_types: ["1"]
 abstract: ""

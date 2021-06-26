@@ -1,7 +1,7 @@
 ---
 title: "Archivespark: Efficient web archive access, extraction and derivation"
 date: 2016-01-01
-publishDate: 2021-06-26T10:23:38.874631Z
+publishDate: 2021-06-26T11:56:58.063561Z
 authors: ["Helge Holzmann", "Vinay Goel", "Avishek Anand"]
 publication_types: ["1"]
 abstract: ""

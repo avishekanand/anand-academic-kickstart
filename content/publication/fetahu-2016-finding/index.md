@@ -1,7 +1,7 @@
 ---
 title: "Finding news citations for wikipedia"
 date: 2016-01-01
-publishDate: 2021-06-26T10:23:38.876722Z
+publishDate: 2021-06-26T11:56:58.065783Z
 authors: ["Besnik Fetahu", "Katja Markert", "Wolfgang Nejdl", "Avishek Anand"]
 publication_types: ["1"]
 abstract: ""

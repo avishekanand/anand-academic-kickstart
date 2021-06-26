@@ -1,7 +1,7 @@
 ---
 title: "Revisiting the Auction Algorithm for Weighted Bipartite Perfect Matchings"
 date: 2021-01-01
-publishDate: 2021-06-26T10:23:38.893145Z
+publishDate: 2021-06-26T11:56:58.084300Z
 authors: ["Megha Khosla", "Avishek Anand"]
 publication_types: ["2"]
 abstract: ""

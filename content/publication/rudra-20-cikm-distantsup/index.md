@@ -1,7 +1,7 @@
 ---
 title: "Distant Supervision in BERT-based Adhoc Document Retrieval"
 date: 2020-01-01
-publishDate: 2021-06-26T10:23:38.897770Z
+publishDate: 2021-06-26T11:56:58.089841Z
 authors: ["Koustav Rudra", "Avishek Anand"]
 publication_types: ["1"]
 abstract: ""

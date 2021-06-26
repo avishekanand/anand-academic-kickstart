@@ -1,7 +1,7 @@
 ---
 title: "Dagstuhl seminar 19461 on conversational search: seminar goals and working group outcomes"
 date: 2020-01-01
-publishDate: 2021-06-26T10:23:38.896625Z
+publishDate: 2021-06-26T11:56:58.088740Z
 authors: ["Avishek Anand", "Lawrence Cavedon", "Matthias Hagen", "Hideo Joho", "Mark Sanderson", "Benno Stein"]
 publication_types: ["2"]
 abstract: ""

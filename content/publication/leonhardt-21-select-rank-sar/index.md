@@ -1,7 +1,7 @@
 ---
 title: "Learnt Sparsity for Effective and Interpretable Document Ranking"
 date: 2021-01-01
-publishDate: 2021-06-26T10:23:38.898770Z
+publishDate: 2021-06-26T11:56:58.090800Z
 authors: ["Jurek Leonhardt", "Koustav Rudra", "Avishek Anand"]
 publication_types: ["2"]
 abstract: ""
