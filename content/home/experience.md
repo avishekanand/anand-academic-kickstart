@@ -53,6 +53,15 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Hannover"
   date_start = "2017-07-01"
-  date_end = ""
+  date_end = "2022-02-28"
   description = "Information Retrieval and Machine Learning."
+
+[[experience]]
+  title = " Associate Professor"
+  company = "Leibniz Universität Hannover"
+  company_url = ""
+  location = "Delft"
+  date_start = "2022-03-01"
+  date_end = ""
+  description = "Explainable Information Retrieval."
 +++
