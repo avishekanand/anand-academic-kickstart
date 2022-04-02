@@ -10,21 +10,21 @@ authors:
 superuser: true
 
 # Role/position
-role: Assistant Professor of Information Retrieval
+role: Associate Professor of Explainable Information Retrieval
 
 # Organizations/Affiliations
 organizations:
-- name: Leibniz Universität Hannover
-  url: "www.uni-hannover.de"
+- name: Technische Universität Delft
+  url: "https://www.tudelft.nl/en/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests lies in the application of machine learning in problems relating to information retrieval and the Web.
+bio: My research interests lies in the application of machine learning to information retrieval and the Web.
 
 interests:
 - Interpretability of learning systems
-- Information Retrieval
+- Information retrieval
 - Representation learning for graphs
-- Scalable representation learning
+- Temporal information retrieval
 
 education:
   courses:
@@ -45,7 +45,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:anand@l3s.de".
+  link: '#contact'  # For a direct email link, use "mailto:avishek.anand@tudelft.nl".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/run4avi
@@ -71,4 +71,4 @@ user_groups:
 - Visitors
 ---
 
-Avishek Anand is an Assistant Professor in the Leibniz University of Hannover. His research aims to develop intelligent and transparent machine learning approaches to help humans find relevant information. His research broadly falls in the intersection of Machine learning on Web and information retrieval. Specifically, he is interested in scalable and interpretable representation learning methods for text and graphs. He holds a PhD in computer science from the Max Planck Insitute for Informatics, Saarbrücken. His research is supported by Amazon research awards and Schufa Gmbh. He has been a visiting scholar in Amazon Search. 
+Avishek Anand is an Associate Professor in TU Delft. His research aims to develop intelligent and transparent machine learning approaches to help humans find relevant information. His research broadly falls in the intersection of Machine learning on Web and information retrieval. Specifically, he is interested in scalable and interpretable representation learning methods for text and graphs. He holds a PhD in computer science from the Max Planck Insitute for Informatics, Saarbrücken. His research is supported by Amazon research awards, Schufa Gmbh, BMBF, and EU Horizon 2020. He has been a visiting scholar in Amazon Search. 

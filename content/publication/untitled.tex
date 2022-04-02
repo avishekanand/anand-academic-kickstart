@@ -1,0 +1,71 @@
+
+\section{Utility of Explanations}
+\label{sec:utility}
+
+One of the motivations of post-hoc interpretability is to use explanations to derive insights into a model's inner workings. 
+As first step, we analyze the retrieved performances, in Table~\ref{tab:real_main}, for the real-world dataset with respect to the influence of the GNNs and the dataset. 
+
+Afterwards, we explore the behaviour of the different GNN's, especially with respect to \textit{homophily}.
+GNNs are known to exploit the homophily in the neighborhood to learn powerful function approximators. We use the retrieved explanations by \approach{} to verify the models' tendency to use homophily for node classification and identify the model's mistakes.
+Formally, we define the homophily of the node as the fraction of the number of its neighbors, which share the same label as the node itself. 
+% Intuitively, it should be easier to label a node with the correct label if a larger fraction of nodes in its computational graph shares its label. 
+
+\todo[thorben]{Please check:}
+As last part, we study a recursive variant of \approach{} that is able to retrieve multiple explanations with the desired fidelity $\tau$. 
+Our goal is to study how frequent multiple (disjoint) explanations are in GNNs. 
+In other words, we want to evaluate, if the final classification of the GNN is derived from multiple disjoint parts of the input graph.
+
+\subsection{Differences in Sparsity for Models and Datasets}
+Based on the results in Table~\ref{tab:real_main}, we retrieve also some qualitative insights into the studied GNNs and datasets. 
+Since \gnnexp{} retrieves edge masks instead of node masks, we compared all approaches based on the effective explanation sizes for the features, i.e., calculated the entropy of the feature masks.
+For the explained GNN, GIN requires the densest explanation and has for Cora and CiteSeer the lowest validity scores. 
+Fixing the GNN and using \approach{}, the achieved sparsity is the lowest for PubMed and the highest for Cora. 
+Hence, a larger number of possible features does not necessarily correspond to more relevant features. 
+
+\subsection{Wrong Predictions Despite High Homophily} 
+In what follows, we use homophily to refer to the homophily of a node with respect to the selected nodes in its first found explanation. True/Predicted homophily refers to the case when true/predicted node labels are used.
+We investigate the joint density of true and predicted homophily exhibited by the studied node sample. 
+With an example plot of explanations on Cora dataset in \ref{fig:homophily_predictions}, we illustrate the effect of connectivity and neighbors' labels on model's decision for a query node.
+
+Several vertices corresponding to blue regions spread over the bottom of the plots have low predicted homophily. These nodes are incorrectly predicted, and their label differ from those predicted for the nodes in their explanation set. The surprising fact is that even though some of them have high true homophily close to 1, their predicted homophily is low. This also points to the usefulness of our found explanation in which we conclude that nodes influencing the current node do not share its label. So despite the general consensus of GNNs reliance on homophily, they can still do mistakes for high homophily nodes for example when information from features is misaligned (or leads to a different decision) with that from structure.
+
+\subsection{Incorrect High Homophily Predictions} We also note that for GIN and APPNP, we have some nodes with true homophily and predicted homophily close to 1 but are incorrectly predicted. This implies the node itself and the most influential nodes from its computational graph have been assigned the same label. We can conclude that the model based its decision on the right set of nodes but assigned the wrong class to the whole group. 
+
+\subsection{Influence of Nodes with Low Homophily}
+ Nodes in the orange regions on the extreme left side of the plots are nodes that exhibited low true homophily but high predicted homophily. The class labels for such nodes are correctly predicted. However, the corresponding nodes in the explanation were assigned the wrong labels (if they were assigned the same labels as that of the particular node in question, its predicted homophily would have been increased). The density of such regions in APPNP is lower than in GCN, implying that APPNP makes fewer mistakes in assigning labels to neighbors of low homophily nodes. For example there are no nodes with true homophily $0$ which influenced its neighbors in the incorrect way. These nodes can be further studied with respect to their degree and features. 
+%  The reasons can be attributed to different aggregation operations in these methods. 
+
+% \textbf{Observation 4 -}  Correctly predicted nodes occupy the top regions of the plots. We note that an increase in predicted homophily is not always desirable and points to the fact that the current node might
+
+\begin{figure*}
+    \centering
+    \includegraphics[width=0.9\textwidth]{images/joint_homophily_first_explanation_pubmed.pdf}
+    \caption{Dataset - PubMed. The joint distribution of the homophily with respect to the nodes selected in the \approach{}'s explanation ($\tau=.85$) with true and predicted labels. The orange contour lines correspond to the distributions for correctly predicted nodes, and the blue one corresponds to incorrectly predicted nodes.}
+    \label{fig:homophily_predictions}
+\end{figure*}
+
+
+\subsection{Multiplicity of Explanations}
+\todo[thorben]{Is this paragraph sufficient?}
+
+As last part of our experiments, we want to study a recursive variant of \approach{}.
+In algorithm~\label{alg:recursive}, we start from all possible nodes in the computational graph and all possible features and select a small set of those elements as explanations.
+The basic idea, is to recursively repeat \approach{}'s process to check the complements of the selected features or selected nodes for further high-fidelity explanations. 
+In that way, the \approach{}'s recursive variant can retrieve multiple explanations. 
+We discuss this extension of \approach{} in detail in Appendix~\ref{sec:algorithm_details}.
+
+Using above recursive variant, we find that
+multiple (disjoint) explanations of fidelity at least $\tau$ are indeed possible and frequent. 
+Figure~\ref{fig:multiplicity} shows the number of nodes having multiple explanations. 
+We observe that, without exception, all GNNs yield multiple disjoint explanations with $\approx 50\%$ of the 300 nodes under study have $2$ to $10$ explanations.
+Our algorithm's disjoint explanations can be understood as a disjoint piece of evidence that would lead the model to the same decision. 
+We expect a much larger number of overlapping explanations if the restrictive condition on disjointness is relaxed. 
+However, the objective here is to show that a decision can be reached in multiple ways. Each explanation is a practical realization of a possible combination of nodes and features that constitutes a decision.
+We are the first to establish the multiplicity of explanations for GNN predictions.
+
+\begin{figure*}
+    \centering
+    \includegraphics[width=0.7\textwidth]{images/number_of_explanations_simplified.pdf}
+    \caption{The number of explanations found with \approach{} at $\tau=0.85$.}
+    \label{fig:multiplicity}
+\end{figure*}
