@@ -23,8 +23,8 @@ bio: My research interests lies in the application of machine learning to inform
 interests:
 - Interpretability of learning systems
 - Deep learning for search
-- Representation learning for graphs
-- Temporal information retrieval
+# - Representation learning for graphs
+# - Temporal information retrieval
 
 education:
   courses:
@@ -67,8 +67,8 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- Visitors
+- Administration
+# - Visitors
 ---
 
 Avishek Anand is an Associate Professor in the Web Information Systems (WIS) at the Software Technology (ST) department at Delft University of Technology (TU Delft). His research aims to develop intelligent and transparent machine learning approaches to help humans find relevant information. His research broadly falls in the intersection of Machine learning on Web and information retrieval. Specifically, he is interested in Explainable Information Retrieval. He holds a PhD in computer science from the Max Planck Insitute for Informatics, Saarbrücken. Previously, he was an Assistant professor in Information Retrieval in Lebniz University Hannover, Germany. His research is supported by Amazon research awards, Schufa Gmbh, BMBF, and EU Horizon 2020. He has been also a visiting scholar in Amazon Search since 2020. 
