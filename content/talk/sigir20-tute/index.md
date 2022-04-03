@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Question Answering over Curated and Open Web Sources"
+title: "Tutorial: Question Answering over Curated and Open Web Sources"
 event: SIGIR 2020, ICTIR 2020
 event_url: "https://sigir.org/sigir2020/"
 event_url: "https://ictir2020.org/"
