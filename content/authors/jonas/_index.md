@@ -18,10 +18,12 @@ organizations:
   url: "https://www.l3s.de/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests lies in the application of machine learning to information retrieval and Web tasks.
+bio: My research aims to analyze, understand, and improve deep learning models that are applied to or used by humans.
 
 interests: 
-  - Probing Deep learning models
+  - Probing deep learning models
+  - Interpretability for search and news recommendation
+  - AI for precision medicine 
 
 # education:
 #   courses:
@@ -42,24 +44,24 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:aanand@l3s.de".
+  link: 'mailto:wallat@l3s.de'  # For a direct email link, use "".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/run4avi
+  link: https://https://twitter.com/JonasWallat
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.de/citations?user=BMdfo4UAAAAJ&hl=en
+  link: https://scholar.google.com/citations?user=QyiRwN8AAAAJ&hl=de
 - icon: github
   icon_pack: fab
-  link: https://github.com/avishekanand
+  link: https://github.com/jwallat
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: files/cv.pdf
+  link: https://jwallat.github.io/cv/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "wallat@l3s.de"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -67,4 +69,7 @@ user_groups:
 - Researchers
 ---
 
-Abhijit Anand is a PhD Student in L3S Research Center. His research is focussed on developing deep learning approaches to Web search.
+My research aims to analyze, understand, and improve deep learning models that are applied to or used by humans. My personal homepage is at https://jwallat.github.io/
+
+### publications:
+- BERTnesia: Investigating the capture and forgetting of knowledge in BERT @BLACKBOXNLP 2020 [link](https://www.semanticscholar.org/paper/BERTnesia%3A-Investigating-the-capture-and-forgetting-Wallat-Singh/616610e0b0a31ab4bac1c64fd0b65c2572185522)
