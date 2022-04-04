@@ -69,7 +69,8 @@ user_groups:
 - Researchers
 ---
 
-My research aims to analyze, understand, and improve deep learning models that are applied to or used by humans. My personal homepage is at https://jwallat.github.io/
+My research aims to analyze, understand, and improve deep learning models that are applied to or used by humans. My personal homepage is [here.]( https://jwallat.github.io/)
 
 ### publications:
-- BERTnesia: Investigating the capture and forgetting of knowledge in BERT @BLACKBOXNLP 2020 [link](https://www.semanticscholar.org/paper/BERTnesia%3A-Investigating-the-capture-and-forgetting-Wallat-Singh/616610e0b0a31ab4bac1c64fd0b65c2572185522)
+- [*BERTnesia: Investigating the capture and forgetting of knowledge in BERT*](https://www.semanticscholar.org/paper/BERTnesia%3A-Investigating-the-capture-and-forgetting-Wallat-Singh/616610e0b0a31ab4bac1c64fd0b65c2572185522) in the Proceedings of Workshop on **BlackboxNLP** (co-located in EMNLP 2020).
+ Jonas Wallat, Jaspreet Singh, Avishek Anand.
