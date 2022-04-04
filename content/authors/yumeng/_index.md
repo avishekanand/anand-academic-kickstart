@@ -4,7 +4,7 @@ title: Yumeng Wang
 
 # Username (this should match the folder name)
 authors:
-- max
+- yumeng
 
 # Is this the primary user of the site?
 superuser: false
@@ -42,10 +42,10 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:<your_link>@l3s.de'  # For a direct email link, use "".
+  link: 'mailto:wang@l3s.de'  # For a direct email link, use "".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/<your_link>
+  link: https://twitter.com/YumengWang13
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.de/citations?user=XXX
@@ -56,7 +56,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: files/yumeng-cv.pdf
+  link: files/max-cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -66,8 +66,8 @@ email: ""
 user_groups:
 - Researchers
 ---
-My research aims to develop novel algorithms that to understand the robustness of ranking and retrieval models.
 
+My research aims to develop novel algorithms that to understand the robustness of ranking and retrieval models.
 
 
 ### publications:
