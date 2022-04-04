@@ -66,5 +66,4 @@ email: ""
 user_groups:
 - Researchers
 ---
-
-Abhijit Anand is a PhD Student in L3S Research Center. His research is focussed on developing deep learning approaches to Web search.
+My research interests lies in the application of machine learning to information retrieval and Web tasks.

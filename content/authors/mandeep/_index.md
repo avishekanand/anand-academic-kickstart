@@ -42,7 +42,7 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:aanand@l3s.de".
+  link: 'mailto:rathee@l3s.de'  # For a direct email link, use "mailto:aanand@l3s.de".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/run4avi
@@ -66,5 +66,4 @@ email: ""
 user_groups:
 - Researchers
 ---
-
-Abhijit Anand is a PhD Student in L3S Research Center. His research is focussed on developing deep learning approaches to Web search.
+My research interests lies in the application of graph-based machine learning to information retrieval and Web tasks. 

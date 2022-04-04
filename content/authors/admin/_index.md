@@ -29,7 +29,7 @@ interests:
 education:
   courses:
   - course: PhD in Information Retrieval
-    institution: Max Planck Insitute for Computer Science, Saarland University
+    institution: MPI Informatik & Saarland University
     year: 2013
   - course: MSc in Computer Science
     institution: Saarland University
@@ -45,7 +45,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:avishek.anand@tudelft.nl".
+  link: 'mailto:avishek.anand@tudelft.nl'  # For a direct email link, use "mailto:avishek.anand@tudelft.nl".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/run4avi
@@ -59,7 +59,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: files/cv.pdf
+  link: files/CV-anand-4-pager.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -71,4 +71,4 @@ user_groups:
 # - Visitors
 ---
 
-Avishek Anand is an Associate Professor in the Web Information Systems (WIS) at the Software Technology (ST) department at Delft University of Technology (TU Delft). His research aims to develop intelligent and transparent machine learning approaches to help humans find relevant information. Specifically, he is interested in Explainable Information Retrieval. He holds a PhD in computer science from the Max Planck Insitute for Informatics, Saarbrücken. Previously, he was an Assistant professor in Information Retrieval in Lebniz University Hannover, Germany. His research is supported by Amazon research awards, Schufa Gmbh, BMBF, and EU Horizon 2020. He has been also a visiting scholar in Amazon Search since 2020. 
+Avishek Anand is an Associate Professor in the [Web Information Systems (WIS)](https://www.wis.ewi.tudelft.nl/) at the [Software Technology](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology) department at [Delft University of Technology](https://www.tudelft.nl/en/) (TU Delft). His research aims to develop *intelligent* and *transparent* machine learning approaches to help humans find relevant information. Specifically, he is interested in **Explainable Information Retrieval**. He holds a PhD in computer science from the [Max Planck Insitute for Informatics](https://www.mpi-inf.mpg.de/), Saarbrücken. Previously, he was an Assistant professor in Information Retrieval in [Lebniz University Hannover](https://www.uni-hannover.de/). His research is supported by Amazon research awards, Schufa Gmbh, BMBF, and EU Horizon 2020. He is also a member of the [L3S Research Center](https://www.l3s.de/) and a visiting scholar in *Amazon Search*. 

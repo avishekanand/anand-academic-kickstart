@@ -4,7 +4,7 @@ title: Yumeng Wang
 
 # Username (this should match the folder name)
 authors:
-- yumeng
+- max
 
 # Is this the primary user of the site?
 superuser: false
@@ -18,10 +18,10 @@ organizations:
   url: "https://www.l3s.de/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests lies in the application of machine learning to information retrieval and Web tasks.
+bio: My research aims to develop novel algorithms that to understand the robustness of ranking and retrieval models.
 
 interests: 
-  - Deep learning for search
+  - Adversarial and Counterfactual attacks on Ranking Models
 
 # education:
 #   courses:
@@ -42,21 +42,21 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:aanand@l3s.de".
+  link: 'mailto:<your_link>@l3s.de'  # For a direct email link, use "".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/run4avi
+  link: https://twitter.com/<your_link>
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.de/citations?user=BMdfo4UAAAAJ&hl=en
+  link: https://scholar.google.de/citations?user=XXX
 - icon: github
   icon_pack: fab
-  link: https://github.com/avishekanand
+  link: https://github.com/<your_link>
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: files/cv.pdf
+  link: files/yumeng-cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -66,5 +66,10 @@ email: ""
 user_groups:
 - Researchers
 ---
+My research aims to develop novel algorithms that to understand the robustness of ranking and retrieval models.
 
-Abhijit Anand is a PhD Student in L3S Research Center. His research is focussed on developing deep learning approaches to Web search.
+
+
+### publications:
+- publication 1
+- publication 2
