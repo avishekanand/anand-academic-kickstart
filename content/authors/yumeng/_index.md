@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yumeng Wang
+title: Yumeng Wang (moved to Leiden University)
 
 # Username (this should match the folder name)
 authors:
